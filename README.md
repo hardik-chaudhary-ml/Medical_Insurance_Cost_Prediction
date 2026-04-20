@@ -2,8 +2,6 @@
 
 
 
-🚀 Live Project Overview
-
 
 
 This project is a Machine Learning-based web application that predicts medical insurance costs based on user inputs such as age, BMI, smoking habits, and region.
@@ -14,7 +12,7 @@ It demonstrates a complete ML pipeline:
 
 
 
-«Data → Preprocessing → Model Training → Evaluation → Deployment (Streamlit UI)»
+«Data → Preprocessing → Model Training → Evaluation 
 
 
 
