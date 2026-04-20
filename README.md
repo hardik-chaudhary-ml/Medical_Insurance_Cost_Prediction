@@ -276,37 +276,7 @@ This project demonstrates:
 \- Understanding of data-driven decision systems
 
 
-
-👉 Strong fit for:
-
-
-
-\- Data Analyst
-
-\- Machine Learning Engineer (Fresher)
-
-\- Data Science roles
-
-
-
 \---
-
-
-
-🚀 Future Improvements
-
-
-
-\- Add SHAP for explainability
-
-\- Deploy on cloud (Render / Streamlit Cloud)
-
-\- Add database for prediction history
-
-
-
-\---
-
 
 
 👨‍💻 Author
