@@ -8,6 +8,7 @@ This project is a Machine Learning-based web application that predicts medical i
 
 
 
+
 It demonstrates a complete ML pipeline:
 
 
