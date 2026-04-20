@@ -223,7 +223,7 @@ Interactive UI where users enter details and get real-time insurance cost predic
 
 
 
-!\[Input UI](assets/screenshot1.png)
+!\[Input UI](./assets/screenshot1.png)
 
 \---
 
@@ -235,7 +235,7 @@ Dynamic graph showing how insurance cost varies with age.
 
 
 
-!\[Graph](assets/screenshot2.png)
+!\[Graph](./assets/screenshot2.png)
 
 
 
