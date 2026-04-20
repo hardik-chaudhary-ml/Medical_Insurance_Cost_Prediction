@@ -85,15 +85,13 @@ streamlit run app.py
 
 ---
 
-📸 Application Preview
+## 📸 Application Preview
 
-🔹 User Interface
+### 🔹 User Interface
+![User Interface](assets/screenshot1.png)
 
-"User Interface" (assets/screenshot1.png)
-
-🔹 Prediction Output
-
-"Prediction Output" (assets/screenshot2.png)
+### 🔹 Prediction Output
+![Prediction Output](assets/screenshot2.png)
 
 
 📊 Dataset Information
