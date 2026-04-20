@@ -85,11 +85,16 @@ streamlit run app.py
 
 ---
 
-🌐 Live Demo
+📸 Application Preview
 
-🚧 Coming Soon (Deploy on Streamlit Cloud / Render / HuggingFace Spaces)
+🔹 User Interface
 
----
+"User Interface" (assets/screenshot1.png)
+
+🔹 Prediction Output
+
+"Prediction Output" (assets/screenshot2.png)
+
 
 📊 Dataset Information
 
