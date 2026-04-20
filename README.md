@@ -23,7 +23,7 @@ Built with a focus on real-world problem solving + deployment readiness.
 ## 🚀 Live Demo
 
 👉[Click here to try the app] https://medicalinsurancecostprediction-bphxfa5dgwn4ftycweuluv.streamlit.app/
-Try different inputs (age, BMI, smoker) to see prediction changes in real-time.
+    Try different inputs (age, BMI, smoker) to see prediction changes in real-time.
 
 ✨ Key Features
 
