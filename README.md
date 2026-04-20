@@ -1,10 +1,10 @@
 💰 Medical Insurance Cost Prediction
 
-"Python" (https://img.shields.io/badge/Python-3.10-blue?logo=python)
-"Machine Learning" (https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
-"Framework" (https://img.shields.io/badge/Framework-Streamlit-red)
-"Status" (https://img.shields.io/badge/Project-Completed-brightgreen)
-"License" (https://img.shields.io/badge/License-MIT-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![Framework](https://img.shields.io/badge/Framework-Streamlit-red)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 🚀 An End-to-End Machine Learning Web Application that predicts medical insurance costs using real-world data and interactive user inputs.
 
