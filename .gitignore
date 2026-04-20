@@ -15,8 +15,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# Large files
-*.pkl
 
 # Streamlit
 .streamlit/
