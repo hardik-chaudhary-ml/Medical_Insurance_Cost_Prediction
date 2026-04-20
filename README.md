@@ -20,6 +20,10 @@ Built with a focus on real-world problem solving + deployment readiness.
 
 ---
 
+## 🚀 Live Demo
+
+👉 https://medicalinsurancecostprediction-bphxfa5dgwn4ftycweuluv.streamlit.app/
+
 ✨ Key Features
 
 - 🔮 Real-time Insurance Cost Prediction
