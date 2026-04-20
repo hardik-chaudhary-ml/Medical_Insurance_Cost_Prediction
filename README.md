@@ -22,7 +22,7 @@ Built with a focus on real-world problem solving + deployment readiness.
 
 ## 🚀 Live Demo
 
-👉 https://medicalinsurancecostprediction-bphxfa5dgwn4ftycweuluv.streamlit.app/
+👉[Click here to try the app] https://medicalinsurancecostprediction-bphxfa5dgwn4ftycweuluv.streamlit.app/
 
 ✨ Key Features
 
